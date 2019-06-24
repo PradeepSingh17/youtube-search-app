@@ -1,0 +1,9 @@
+nav {
+    background-color: #35a3cc;
+}
+
+.navbar-brand > img {
+    height: 32px;
+    margin-left: 10px;
+}
+
